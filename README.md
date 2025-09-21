@@ -1,4 +1,4 @@
-I'm a computer science college student teenager who likes building things that are useful for me and hopefully for others too. Most of what I work on or create involves [modding](https://en.wikipedia.org/wiki/Modding), so I'm more into reverse-engineering than software development. These days, my focus is on [web development](https://en.wikipedia.org/wiki/Web_development) as a way to get into proper software development. I don’t build a lot right now because of: hardware limitations (until recently), always being busy with other stuff, and honestly, a mix of laziness and *stupidness*.
+I'm a computer science college student teenager who likes building things that are useful for me and hopefully for others too. Most of what I work on or create involves [modding](https://en.wikipedia.org/wiki/Modding), so I'm more into reverse-engineering than software development. These days, my focus is on [web development](https://en.wikipedia.org/wiki/Web_development) as a way to get into "proper software development". I don’t build a lot right now because of: hardware limitations (until recently), always being busy with other stuff, and honestly, a mix of laziness and *stupidness*.
 
 <h3>Languages and Tools</h3>
 <kbd>
@@ -32,7 +32,7 @@ I'm a computer science college student teenager who likes building things that a
         </div>
       </p>
       <h3>
-          Sponsors
+          Active Sponsors
       </h3>
     </td>
     <td>
@@ -51,7 +51,9 @@ I'm a computer science college student teenager who likes building things that a
           />
         </a>
       </p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="99999px" height="0" />
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="99999px" height="0" />
+      </a>
     </td>
   </tr>
 </table>
