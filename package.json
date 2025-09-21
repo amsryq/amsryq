@@ -1,0 +1,17 @@
+{
+  "name": "amsyarasyiq",
+  "private": true,
+  "scripts": {
+    "update-sponsors": "bun run sponsorkit",
+    "purge-cache": "bun run scripts/purge-cache.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "sponsorkit": "^17.0.0"
+  }
+}
