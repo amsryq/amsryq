@@ -23,9 +23,9 @@ I'm a computer science college student teenager who likes building things that a
     <td align="center">
       <p align="left">
         <div align="left">
-          <a href="https://github.com/sponsors/amsyarasyiq">
+          <a href="https://github.com/sponsors/amsryq">
               <img 
-                src="https://cdn.jsdelivr.net/gh/amsyarasyiq/amsyarasyiq/sponsorkit/sponsors.circles.png" 
+                src="https://cdn.jsdelivr.net/gh/amsryq/amsryq/sponsorkit/sponsors.circles.png" 
                 width="300px"
               />
           </a>
@@ -44,7 +44,7 @@ I'm a computer science college student teenager who likes building things that a
         <br>
         Want to join this amazing group of people?  
         <br><br>
-        <a href="https://github.com/sponsors/amsyarasyiq">
+        <a href="https://github.com/sponsors/amsryq">
           <img
             alt="Current active sponsors"
             src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"
@@ -62,8 +62,8 @@ I'm a computer science college student teenager who likes building things that a
 
 <p align="right">
   <samp>
-    <a href="https://x.com/amsyarasyiq" target="_blank">x</a>
+    <a href="https://x.com/amsryq" target="_blank">x</a>
     .
-    <a href="https://github.com/amsyarasyiq" target="_blank">github</a>
+    <a href="https://github.com/amsryq" target="_blank">github</a>
   </samp>
 </p>
